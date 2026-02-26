@@ -8,7 +8,7 @@
 
 This repository contains the deliverables for the AWS cloud migration assessment lab. The files included are:
 
-- `aws_waf_caf_assessment.md` - The main report containing the complete analysis, including Task 1 (architecture review), Task 2 (WAF assessment table), Task 3 (CAF readiness summaries), Task 4 (improved architecture design), and the final reflection.
+- `aws_waf_caf_assessment.md` - The main report containing the complete analysis.
 - `architecture_diagram.png` - A visual representation of the proposed improved architecture for the two-tier web application.
 - `README.md` - This file, explaining the approach taken to complete the lab.
 
